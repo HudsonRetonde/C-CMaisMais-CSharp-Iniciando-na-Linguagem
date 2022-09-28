@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\bin\Debug\net6.0\Curso Sintaxe e Tipos de Dados.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\bin\Debug\net6.0\Curso Sintaxe e Tipos de Dados.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\bin\Debug\net6.0\Curso Sintaxe e Tipos de Dados.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\bin\Debug\net6.0\Curso Sintaxe e Tipos de Dados.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\bin\Debug\net6.0\Curso Sintaxe e Tipos de Dados.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\Curso Sintaxe e Tipos de Dados.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\Curso Sintaxe e Tipos de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\Curso Sintaxe e Tipos de Dados.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\Curso Sintaxe e Tipos de Dados.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\Curso Sintaxe e Tipos de Dados.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\Curso Sintaxe e Tipos de Dados.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\refint\Curso Sintaxe e Tipos de Dados.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\Curso Sintaxe e Tipos de Dados.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\Curso Sintaxe e Tipos de Dados.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C# DIO\Curso Sintaxe e Tipos de Dados\obj\Debug\net6.0\ref\Curso Sintaxe e Tipos de Dados.dll

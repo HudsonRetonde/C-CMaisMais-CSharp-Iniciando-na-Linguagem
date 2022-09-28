@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Curso Sintaxe e Tipos de Dados/1.0.0": {
+        "runtime": {
+          "Curso Sintaxe e Tipos de Dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso Sintaxe e Tipos de Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
