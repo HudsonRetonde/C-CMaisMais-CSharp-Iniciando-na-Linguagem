@@ -1,2 +1,2 @@
 # C-Iniciando-na-Linguagem
-Repositório do curso básico.
+Repositório para guardar os códigos criados na aprendizagem da linguagem.
