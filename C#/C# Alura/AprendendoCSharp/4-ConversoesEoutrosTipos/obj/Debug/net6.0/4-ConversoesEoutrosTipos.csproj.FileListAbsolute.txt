@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\bin\Debug\net6.0\4-ConversoesEoutrosTipos.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\bin\Debug\net6.0\4-ConversoesEoutrosTipos.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\bin\Debug\net6.0\4-ConversoesEoutrosTipos.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\bin\Debug\net6.0\4-ConversoesEoutrosTipos.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\bin\Debug\net6.0\4-ConversoesEoutrosTipos.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\4-ConversoesEoutrosTipos.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\4-ConversoesEoutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\4-ConversoesEoutrosTipos.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\4-ConversoesEoutrosTipos.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\4-ConversoesEoutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\4-ConversoesEoutrosTipos.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\refint\4-ConversoesEoutrosTipos.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\4-ConversoesEoutrosTipos.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\4-ConversoesEoutrosTipos.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\4-ConversoesEoutrosTipos\obj\Debug\net6.0\ref\4-ConversoesEoutrosTipos.dll

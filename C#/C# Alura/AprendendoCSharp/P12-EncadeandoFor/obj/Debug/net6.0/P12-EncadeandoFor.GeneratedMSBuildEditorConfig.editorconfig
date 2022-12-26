@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Curso_Sintaxe_e_Tipos_de_Dados
-build_property.ProjectDir = c:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\Curso Sintaxe e Tipos de Dados\
+build_property.RootNamespace = P12_EncadeandoFor
+build_property.ProjectDir = C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P12-EncadeandoFor\

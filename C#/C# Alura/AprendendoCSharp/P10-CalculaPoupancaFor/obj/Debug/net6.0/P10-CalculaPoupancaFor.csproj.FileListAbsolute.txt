@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\bin\Debug\net6.0\P10-CalculaPoupancaFor.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\bin\Debug\net6.0\P10-CalculaPoupancaFor.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\bin\Debug\net6.0\P10-CalculaPoupancaFor.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\bin\Debug\net6.0\P10-CalculaPoupancaFor.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\bin\Debug\net6.0\P10-CalculaPoupancaFor.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\P10-CalculaPoupancaFor.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\P10-CalculaPoupancaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\P10-CalculaPoupancaFor.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\P10-CalculaPoupancaFor.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\P10-CalculaPoupancaFor.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\P10-CalculaPoupancaFor.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\refint\P10-CalculaPoupancaFor.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\P10-CalculaPoupancaFor.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\P10-CalculaPoupancaFor.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\P10-CalculaPoupancaFor\obj\Debug\net6.0\ref\P10-CalculaPoupancaFor.dll

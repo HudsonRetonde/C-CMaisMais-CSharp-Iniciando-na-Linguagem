@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\bin\Debug\net6.0\8-CondicionaisParteDois.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\bin\Debug\net6.0\8-CondicionaisParteDois.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\bin\Debug\net6.0\8-CondicionaisParteDois.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\bin\Debug\net6.0\8-CondicionaisParteDois.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\bin\Debug\net6.0\8-CondicionaisParteDois.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\8-CondicionaisParteDois.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\8-CondicionaisParteDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\8-CondicionaisParteDois.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\8-CondicionaisParteDois.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\8-CondicionaisParteDois.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\8-CondicionaisParteDois.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\refint\8-CondicionaisParteDois.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\8-CondicionaisParteDois.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\8-CondicionaisParteDois.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\8-CondicionaisParteDois\obj\Debug\net6.0\ref\8-CondicionaisParteDois.dll

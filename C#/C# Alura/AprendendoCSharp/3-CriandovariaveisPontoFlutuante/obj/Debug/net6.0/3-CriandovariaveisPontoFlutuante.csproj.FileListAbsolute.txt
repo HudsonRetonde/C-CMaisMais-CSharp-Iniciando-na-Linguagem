@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandovariaveisPontoFlutuante.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandovariaveisPontoFlutuante.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandovariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandovariaveisPontoFlutuante.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandovariaveisPontoFlutuante.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandovariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandovariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandovariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandovariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandovariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandovariaveisPontoFlutuante.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\refint\3-CriandovariaveisPontoFlutuante.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandovariaveisPontoFlutuante.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandovariaveisPontoFlutuante.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\3-CriandovariaveisPontoFlutuante\obj\Debug\net6.0\ref\3-CriandovariaveisPontoFlutuante.dll
