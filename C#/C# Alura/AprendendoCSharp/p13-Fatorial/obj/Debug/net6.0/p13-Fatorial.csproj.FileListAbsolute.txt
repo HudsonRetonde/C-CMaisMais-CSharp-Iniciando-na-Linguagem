@@ -1,0 +1,5 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\p13-Fatorial\obj\Debug\net6.0\p13-Fatorial.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\p13-Fatorial\obj\Debug\net6.0\p13-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\p13-Fatorial\obj\Debug\net6.0\p13-Fatorial.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\p13-Fatorial\obj\Debug\net6.0\p13-Fatorial.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\AprendendoCSharp\p13-Fatorial\obj\Debug\net6.0\p13-Fatorial.csproj.CoreCompileInputs.cache
