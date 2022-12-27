@@ -19,4 +19,29 @@ if (contaDoAndre.Sacar(50) == true)
         Console.WriteLine("O valor solicitado é maior que o saldo disponíel em conta. Operação invalidada...");
 }
 
+Console.WriteLine();
+
+
+ContaCorrente contaDaMaria = new ContaCorrente();
+contaDaMaria.titular = "Maria Souza";
+contaDaMaria.numero_agencia = 17;
+contaDaMaria.conta = "1010-y";
+contaDaMaria.saldo = 350;
+
+Console.WriteLine("O saldo da conta da Maria é " + contaDaMaria.saldo + " reais.");
+
+contaDoAndre.Transferir(50, contaDaMaria);
+Console.WriteLine();
+Console.WriteLine("Saldo do André  é R$ " + contaDoAndre.saldo + " reais.");
+Console.WriteLine("Saldo da Maria é R$ " + contaDaMaria.saldo + " reais.");
+
+Console.WriteLine();
+
+ContaCorrente contaDoPedro = new ContaCorrente();
+contaDoPedro.titular = "Pedro Silva";
+Console.WriteLine(contaDoPedro.titular);
+Console.WriteLine(contaDoPedro.saldo);
+Console.WriteLine(contaDoPedro.numero_agencia);
+Console.WriteLine(contaDoPedro.conta);
+
 
