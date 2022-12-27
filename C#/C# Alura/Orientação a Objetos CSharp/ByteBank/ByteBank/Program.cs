@@ -1,4 +1,5 @@
-﻿using ByteBank;
+﻿using ByteBank.Contas;
+using ByteBank.Titular;
 
 //ContaCorrente contaDoAndre = new ContaCorrente();
 //contaDoAndre.titular = "André Silva";
@@ -56,22 +57,37 @@
 //Console.WriteLine(contaDoPedro.numero_agencia);
 //Console.WriteLine(contaDoPedro.conta);
 
-Cliente cliente = new Cliente();
-cliente.nome = "André Silva";
-cliente.cpf = "12345678945";
-cliente.profissao = "Analista";
+//Cliente cliente = new Cliente();
+//cliente.nome = "André Silva";
+//cliente.cpf = "12345678945";
+//cliente.profissao = "Analista";
 
-ContaCorrente conta = new ContaCorrente();
-conta.titular = cliente;
-conta.conta = "1010-X";
-conta.numero_agencia = 15;
-conta.saldo = 100;
+//ContaCorrente conta = new ContaCorrente();
+//conta.titular = cliente;
+//conta.conta = "1010-X";
+//conta.numero_agencia = 15;
+//conta.saldo = 100;
 
-Console.WriteLine("Titular = " + conta.titular.nome + ".");
-Console.WriteLine("CPF = " + conta.titular.cpf + ".");
-Console.WriteLine("Profissão = " + conta.titular.profissao + ".");
-Console.WriteLine("Conta-corrente = " + conta.conta + ".");
-Console.WriteLine("Saldo = " + conta.saldo + ".");
-Console.WriteLine("Agência = " + conta.numero_agencia + ".");
+//Console.WriteLine("Titular = " + conta.titular.nome + ".");
+//Console.WriteLine("CPF = " + conta.titular.cpf + ".");
+//Console.WriteLine("Profissão = " + conta.titular.profissao + ".");
+//Console.WriteLine("Conta-corrente = " + conta.conta + ".");
+//Console.WriteLine("Saldo = " + conta.saldo + ".");
+//Console.WriteLine("Agência = " + conta.numero_agencia + ".");
+//Console.WriteLine();
 
+//ContaCorrente conta2 = new ContaCorrente();
+//conta2.titular = new Cliente();
+//conta2.titular.nome = "José Souza";
+//conta2.titular.cpf = "98765432102";
+//conta2.titular.profissao = "Tester";
+//conta2.conta = "9999-X";
+//conta2.numero_agencia = 18;
+//conta2.saldo = 500;
+
+//Console.WriteLine(conta2.titular.nome);
+
+ContaCorrente conta3 = new ContaCorrente();
+conta3.DefinirSaldo(1000);
+Console.WriteLine(conta3.ObterSaldo());
 
