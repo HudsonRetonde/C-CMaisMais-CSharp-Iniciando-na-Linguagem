@@ -13,5 +13,10 @@ namespace ByteBank_ADM.Funcionarios
 
             return this.Salario + base.GetBonificacao();
         }
+
+        public Diretor()
+        {
+            Console.WriteLine("Criando um diretor.");
+        }
     }
 }
