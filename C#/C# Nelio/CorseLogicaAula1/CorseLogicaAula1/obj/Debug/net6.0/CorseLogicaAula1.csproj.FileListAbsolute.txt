@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\bin\Debug\net6.0\CorseLogicaAula1.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\bin\Debug\net6.0\CorseLogicaAula1.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\bin\Debug\net6.0\CorseLogicaAula1.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\bin\Debug\net6.0\CorseLogicaAula1.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\bin\Debug\net6.0\CorseLogicaAula1.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\CorseLogicaAula1.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\CorseLogicaAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\CorseLogicaAula1.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\CorseLogicaAula1.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\CorseLogicaAula1.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\CorseLogicaAula1.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\refint\CorseLogicaAula1.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\CorseLogicaAula1.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\CorseLogicaAula1.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CorseLogicaAula1\CorseLogicaAula1\obj\Debug\net6.0\ref\CorseLogicaAula1.dll

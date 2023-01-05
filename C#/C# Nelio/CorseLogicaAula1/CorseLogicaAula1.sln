@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorseLogicaAula1", "CorseLogicaAula1\CorseLogicaAula1.csproj", "{F870A800-CD54-4A99-BDDF-B98C01B737BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F870A800-CD54-4A99-BDDF-B98C01B737BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F870A800-CD54-4A99-BDDF-B98C01B737BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F870A800-CD54-4A99-BDDF-B98C01B737BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F870A800-CD54-4A99-BDDF-B98C01B737BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {750E9DA6-BCB3-4069-AFDD-902848F83EF9}
+	EndGlobalSection
+EndGlobal

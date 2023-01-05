@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\bin\Debug\net6.0\ByteBank_ADM.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\refint\ByteBank_ADM.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ByteBank_ADM.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Alura\Usando Heranca e Implementando Interfaces\ByteBank_ADM\ByteBank_ADM\obj\Debug\net6.0\ref\ByteBank_ADM.dll
