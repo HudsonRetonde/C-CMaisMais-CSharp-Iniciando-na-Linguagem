@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\bin\Debug\net6.0\CalculadoraDeConsumo.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\bin\Debug\net6.0\CalculadoraDeConsumo.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\bin\Debug\net6.0\CalculadoraDeConsumo.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\bin\Debug\net6.0\CalculadoraDeConsumo.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\bin\Debug\net6.0\CalculadoraDeConsumo.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\CalculadoraDeConsumo.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\CalculadoraDeConsumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\CalculadoraDeConsumo.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\CalculadoraDeConsumo.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\CalculadoraDeConsumo.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\CalculadoraDeConsumo.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\refint\CalculadoraDeConsumo.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\CalculadoraDeConsumo.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\CalculadoraDeConsumo.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\CalculadoraDeConsumo\CalculadoraDeConsumo\obj\Debug\net6.0\ref\CalculadoraDeConsumo.dll

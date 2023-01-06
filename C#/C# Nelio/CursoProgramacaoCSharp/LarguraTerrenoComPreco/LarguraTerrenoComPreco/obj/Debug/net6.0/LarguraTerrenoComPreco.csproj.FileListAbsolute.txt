@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\bin\Debug\net6.0\LarguraTerrenoComPreco.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\bin\Debug\net6.0\LarguraTerrenoComPreco.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\bin\Debug\net6.0\LarguraTerrenoComPreco.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\bin\Debug\net6.0\LarguraTerrenoComPreco.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\bin\Debug\net6.0\LarguraTerrenoComPreco.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\LarguraTerrenoComPreco.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\LarguraTerrenoComPreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\LarguraTerrenoComPreco.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\LarguraTerrenoComPreco.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\LarguraTerrenoComPreco.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\LarguraTerrenoComPreco.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\refint\LarguraTerrenoComPreco.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\LarguraTerrenoComPreco.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\LarguraTerrenoComPreco.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LarguraTerrenoComPreco\LarguraTerrenoComPreco\obj\Debug\net6.0\ref\LarguraTerrenoComPreco.dll
