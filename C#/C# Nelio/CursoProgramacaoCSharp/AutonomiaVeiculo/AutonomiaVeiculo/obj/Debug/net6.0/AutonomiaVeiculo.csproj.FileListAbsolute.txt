@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\bin\Debug\net6.0\AutonomiaVeiculo.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\bin\Debug\net6.0\AutonomiaVeiculo.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\bin\Debug\net6.0\AutonomiaVeiculo.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\bin\Debug\net6.0\AutonomiaVeiculo.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\bin\Debug\net6.0\AutonomiaVeiculo.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\AutonomiaVeiculo.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\AutonomiaVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\AutonomiaVeiculo.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\AutonomiaVeiculo.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\AutonomiaVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\AutonomiaVeiculo.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\refint\AutonomiaVeiculo.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\AutonomiaVeiculo.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\AutonomiaVeiculo.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\AutonomiaVeiculo\AutonomiaVeiculo\obj\Debug\net6.0\ref\AutonomiaVeiculo.dll
