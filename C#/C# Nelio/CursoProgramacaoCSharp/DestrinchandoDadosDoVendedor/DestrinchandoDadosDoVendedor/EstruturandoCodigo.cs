@@ -62,6 +62,7 @@ namespace DestrinchandoDadosDoVendedor
             Console.WriteLine($"Sua comissão é R$: {Comissao.ToString("F2", CultureInfo.InvariantCulture)}.");
             Console.WriteLine($"Por conseguite, sua remuneração total, que é a soma do salário fixo R$: {SalarioFixo} + comissão {Comissao}, ");            
             Console.WriteLine($"é de R$: {SalarioBruto.ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.ReadKey();
         }
     }
 }

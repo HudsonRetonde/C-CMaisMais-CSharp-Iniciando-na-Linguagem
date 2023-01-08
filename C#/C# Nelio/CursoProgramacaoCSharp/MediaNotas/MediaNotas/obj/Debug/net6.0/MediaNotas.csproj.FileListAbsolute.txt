@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\bin\Debug\net6.0\MediaNotas.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\bin\Debug\net6.0\MediaNotas.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\bin\Debug\net6.0\MediaNotas.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\bin\Debug\net6.0\MediaNotas.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\bin\Debug\net6.0\MediaNotas.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\MediaNotas.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\MediaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\MediaNotas.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\MediaNotas.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\MediaNotas.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\MediaNotas.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\refint\MediaNotas.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\MediaNotas.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\MediaNotas.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaNotas\MediaNotas\obj\Debug\net6.0\ref\MediaNotas.dll
