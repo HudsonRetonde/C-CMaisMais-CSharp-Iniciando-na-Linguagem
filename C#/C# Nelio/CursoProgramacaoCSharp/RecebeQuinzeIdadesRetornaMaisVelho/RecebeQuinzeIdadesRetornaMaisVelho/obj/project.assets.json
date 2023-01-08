@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\RecebeQuinzeIdadesRetornaMaisVelho\\RecebeQuinzeIdadesRetornaMaisVelho\\RecebeQuinzeIdadesRetornaMaisVelho.csproj",
-      "projectName": "RecebeQuinzeIdadesRetornaMaisVelho",
-      "projectPath": "C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\RecebeQuinzeIdadesRetornaMaisVelho\\RecebeQuinzeIdadesRetornaMaisVelho\\RecebeQuinzeIdadesRetornaMaisVelho.csproj",
+      "projectUniqueName": "C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\RecebeQuinzeIdadesRetornaMaisVelho\\RecebeQuinzeIdadesRetornaMaisVelho\\RecebeDezIdadesRetornaMaisVelho.csproj",
+      "projectName": "RecebeDezIdadesRetornaMaisVelho",
+      "projectPath": "C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\RecebeQuinzeIdadesRetornaMaisVelho\\RecebeQuinzeIdadesRetornaMaisVelho\\RecebeDezIdadesRetornaMaisVelho.csproj",
       "packagesPath": "C:\\Users\\hudso\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\RecebeQuinzeIdadesRetornaMaisVelho\\RecebeQuinzeIdadesRetornaMaisVelho\\obj\\",
       "projectStyle": "PackageReference",
