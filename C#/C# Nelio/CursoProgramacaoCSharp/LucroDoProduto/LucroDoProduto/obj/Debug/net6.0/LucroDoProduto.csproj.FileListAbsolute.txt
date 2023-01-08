@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\bin\Debug\net6.0\LucroDoProduto.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\bin\Debug\net6.0\LucroDoProduto.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\bin\Debug\net6.0\LucroDoProduto.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\bin\Debug\net6.0\LucroDoProduto.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\bin\Debug\net6.0\LucroDoProduto.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\LucroDoProduto.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\LucroDoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\LucroDoProduto.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\LucroDoProduto.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\LucroDoProduto.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\LucroDoProduto.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\refint\LucroDoProduto.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\LucroDoProduto.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\LucroDoProduto.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\LucroDoProduto\LucroDoProduto\obj\Debug\net6.0\ref\LucroDoProduto.dll
