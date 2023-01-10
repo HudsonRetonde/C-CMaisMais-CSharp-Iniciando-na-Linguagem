@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\bin\Debug\net6.0\FuncionarioImposto.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\bin\Debug\net6.0\FuncionarioImposto.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\bin\Debug\net6.0\FuncionarioImposto.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\bin\Debug\net6.0\FuncionarioImposto.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\bin\Debug\net6.0\FuncionarioImposto.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\FuncionarioImposto.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\FuncionarioImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\FuncionarioImposto.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\FuncionarioImposto.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\FuncionarioImposto.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\FuncionarioImposto.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\refint\FuncionarioImposto.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\FuncionarioImposto.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\FuncionarioImposto.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\FuncionarioImposto\FuncionarioImposto\obj\Debug\net6.0\ref\FuncionarioImposto.dll
