@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\bin\Debug\net6.0\MediaTrimestre.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\bin\Debug\net6.0\MediaTrimestre.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\bin\Debug\net6.0\MediaTrimestre.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\bin\Debug\net6.0\MediaTrimestre.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\bin\Debug\net6.0\MediaTrimestre.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\MediaTrimestre.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\MediaTrimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\MediaTrimestre.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\MediaTrimestre.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\MediaTrimestre.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\MediaTrimestre.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\refint\MediaTrimestre.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\MediaTrimestre.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\MediaTrimestre.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MediaTrimestre\MediaTrimestre\obj\Debug\net6.0\ref\MediaTrimestre.dll
