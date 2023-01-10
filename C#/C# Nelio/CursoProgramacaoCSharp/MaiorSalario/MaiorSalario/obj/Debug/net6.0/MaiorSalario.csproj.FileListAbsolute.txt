@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\bin\Debug\net6.0\MaiorSalario.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\bin\Debug\net6.0\MaiorSalario.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\bin\Debug\net6.0\MaiorSalario.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\bin\Debug\net6.0\MaiorSalario.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\bin\Debug\net6.0\MaiorSalario.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\MaiorSalario.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\MaiorSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\MaiorSalario.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\MaiorSalario.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\MaiorSalario.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\MaiorSalario.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\refint\MaiorSalario.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\MaiorSalario.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\MaiorSalario.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\MaiorSalario\MaiorSalario\obj\Debug\net6.0\ref\MaiorSalario.dll
