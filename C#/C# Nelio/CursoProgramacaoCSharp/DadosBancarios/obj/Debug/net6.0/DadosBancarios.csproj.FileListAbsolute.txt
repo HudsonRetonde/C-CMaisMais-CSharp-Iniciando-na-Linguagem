@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\DadosBancarios.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\DadosBancarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\DadosBancarios.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\DadosBancarios.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\DadosBancarios.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\bin\Debug\net6.0\DadosBancarios.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\bin\Debug\net6.0\DadosBancarios.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\bin\Debug\net6.0\DadosBancarios.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\bin\Debug\net6.0\DadosBancarios.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\bin\Debug\net6.0\DadosBancarios.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\DadosBancarios.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\refint\DadosBancarios.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\DadosBancarios.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\DadosBancarios.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\DadosBancarios\obj\Debug\net6.0\ref\DadosBancarios.dll
