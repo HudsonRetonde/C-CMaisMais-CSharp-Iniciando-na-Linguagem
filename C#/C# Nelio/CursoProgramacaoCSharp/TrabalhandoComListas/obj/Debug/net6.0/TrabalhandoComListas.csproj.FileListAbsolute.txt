@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\bin\Debug\net6.0\TrabalhandoComListas.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\bin\Debug\net6.0\TrabalhandoComListas.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\bin\Debug\net6.0\TrabalhandoComListas.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\bin\Debug\net6.0\TrabalhandoComListas.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\bin\Debug\net6.0\TrabalhandoComListas.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\TrabalhandoComListas.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\TrabalhandoComListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\TrabalhandoComListas.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\TrabalhandoComListas.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\TrabalhandoComListas.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\TrabalhandoComListas.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\refint\TrabalhandoComListas.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\TrabalhandoComListas.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\TrabalhandoComListas.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\TrabalhandoComListas\obj\Debug\net6.0\ref\TrabalhandoComListas.dll
