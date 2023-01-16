@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vVCdjaLfvFabPKoFZJVez7IcqXS+vTYaJmIJt40lTrTlH9nNksb3T9OTyVY+uLMVrw5ryIzPA4dj1OQcfP02g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\Exercicio_PetShop\\PetShop_Arquivo\\PetShop_Arquivo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\01_Exercicios\\Utilitarios\\Utilitarios.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\01_Exercicios\\Utilitarios\\Utilitarios.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
