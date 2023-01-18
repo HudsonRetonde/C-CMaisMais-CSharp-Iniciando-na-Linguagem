@@ -26,14 +26,14 @@ namespace PetShop.Repositorios
         {
             if (!(VerificaExistenciaCliente(cliente.CPF)))
             {
-                var sw = new StreamWriter(_caminhoBase);
-
-                sw.WriteLine($"{cliente.Nome};{cliente.CPF};{cliente.DataDeNascimento};{cliente.Endereco}");
-                Console.WriteLine();
-                Console.WriteLine("Cliente cadastrado com sucesso!\n");
-                sw.Close();
+                
+                File.AppendAllText(_caminhoBase, $"{cliente.CPF};{cliente.Nome};{cliente.DataDeNascimento};{cliente.Endereco}");  
+                Console.WriteLine($"{Environment.NewLine}Cliente cadastrado com sucesso!\n");
+              
             }
-            Console.WriteLine("CPF já utilizado, cadastro cancelado.");
+            else           
+                Console.WriteLine("CPF já utilizado, cadastro cancelado.");           
+            
         }
         public List<Clientes> Listar()
         {
@@ -49,8 +49,8 @@ namespace PetShop.Repositorios
             var colunas = linha.Split(';');
 
             var clientes = new Clientes();
-            clientes.Nome = colunas[0];
-            clientes.CPF = colunas[1];
+            clientes.CPF = colunas[0];
+            clientes.Nome = colunas[1];
             clientes.DataDeNascimento = Convert.ToDateTime(colunas[2]);
             clientes.Endereco = colunas[3];
 

@@ -10,50 +10,87 @@ namespace PetShop.Util
 {
     internal static class ValidaUtil
     {
-        public static bool IsCpf(string cpf)
+        public static bool ValidaCPF(string cpf)
         {
-            int[] multiplicador1 = new int[9] { 10, 9, 8, 7, 6, 5, 4, 3, 2 };
-            int[] multiplicador2 = new int[10] { 11, 10, 9, 8, 7, 6, 5, 4, 3, 2 };
-            string tempCpf;
-            string digito;
-            int soma;
-            int resto;
+            // Remover caracteres não numericos
+            cpf = Regex.Replace(cpf, "[^0-9]", "");
 
-            cpf = cpf.Trim();
-            cpf = cpf.Replace(".", "").Replace("-", "");
-
+            // Verificar se o CPF tem 11 dígitos
             if (cpf.Length != 11)
+            {
                 return false;
+            }
 
-            tempCpf = cpf.Substring(0, 9);
-            soma = 0;
+            // Verificar se todos os dígitos são iguais
+            for (int i = 0; i < cpf.Length; i++)
+            {
+                if (cpf[i] != cpf[i + 1])
+                {
+                    break;
+                }
+                else if (i == cpf.Length - 2)
+                {
+                    return false;
+                }
+            }
+
+            // Calcular o primeiro dígito verificador
+            int[] digito1 = new int[9] { 10, 9, 8, 7, 6, 5, 4, 3, 2 };
+            int sum1 = 0;
 
             for (int i = 0; i < 9; i++)
-                soma += int.Parse(tempCpf[i].ToString()) * multiplicador1[i];
-
-            resto = soma % 11;
-            if (resto < 2)
-                resto = 0;
+            {
+                sum1 += int.Parse(cpf[i].ToString()) * digito1[i];
+            }
+            int result1 = sum1 % 11;
+            if (result1 < 2)
+            {
+                result1 = 0;
+            }
             else
-                resto = 11 - resto;
+            {
+                result1 = 11 - result1;
+            }
 
-            digito = resto.ToString();
+            // Verificar se o primeiro dígito verificador está correto
+            if (result1 != int.Parse(cpf[9].ToString()))
+                return false;
 
-            tempCpf = tempCpf + digito;
-
-            soma = 0;
+            // Calcular o segundo dígito verificador
+            int[] digito2 = new int[10] { 11, 10, 9, 8, 7, 6, 5, 4, 3, 2 };
+            int sum2 = 0;
             for (int i = 0; i < 10; i++)
-                soma += int.Parse(tempCpf[i].ToString()) * multiplicador2[i];
+            {
+                sum2 += int.Parse(cpf[i].ToString()) * digito2[i];
+            }
 
-            resto = soma % 11;
-            if (resto < 2)
-                resto = 0;
+            int result2 = sum2 % 11;
+            if (result2 < 2)
+            {
+                result2 = 0;
+            }
             else
-                resto = 11 - resto;
+            {
+                result2 = 11 - result2;
+            }
 
-            digito = digito + resto.ToString();
-
-            return cpf.EndsWith(digito);
+            // Verificar se o segundo dígito verificador está correto
+            if (result2 != int.Parse(cpf[10].ToString()))
+            {
+                return false;
+            }
+            return true;
+        }
+        public static bool ValidaCPFBusca(string cpf)
+        {
+            // Remover caracteres não numericos
+            cpf = Regex.Replace(cpf, @"[^0-9]", "");
+            // Verificar se o CPF tem 11 dígitos
+            if (cpf.Length != 11)
+            {
+                return false;
+            }
+            return true;
         }
 
         public static bool ValidaNascimento(string nascimento)

@@ -85,7 +85,7 @@ namespace PetShop.Servicos
                 cpf = Console.ReadLine();
                 cpf = Regex.Replace(cpf, @"(\d{3})(\d{3})(\d{3})(\d{2})",
                                     "$1.$2.$3-$4");
-                if (ValidaUtil.IsCpf(cpf))
+                if (ValidaUtil.ValidaCPF(cpf))
                 {
                     Console.WriteLine("CPF válido!\n");
                     break;
@@ -126,7 +126,7 @@ namespace PetShop.Servicos
                 }
             }
 
-            Clientes clientes = new Clientes(nome, cpf, endereco, dataNascimento);
+            Clientes clientes = new Clientes(nome, cpf, dataNascimento, endereco);
             _repositorio.Inserir(clientes);
         }
         private void ListarClientes()
@@ -155,7 +155,7 @@ namespace PetShop.Servicos
                 cpf = Console.ReadLine();
                 cpf = Regex.Replace(cpf, @"(\d{3})(\d{3})(\d{3})(\d{2})",
                                          "$1.$2.$3-$4");
-                if (ValidaUtil.IsCpf(cpf))
+                if (ValidaUtil.ValidaCPF(cpf))
                     break;
                 else
                     Console.WriteLine("Digite um CPF válido! Digite novamente.");

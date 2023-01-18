@@ -10,25 +10,23 @@ namespace PetShop.Models
     {
         public string CPF { get; set; }
         public string Nome { get; set; }
-        public string Endereco { get; set; }
         public DateTime DataDeNascimento { get; set; }  
-        public bool Situacao { get; set; }  
-
-        
-        public Clientes( string cpf, string nome, string endereco, DateTime dataDeNascimento)
-        {
-            CPF = cpf;
-            Nome = nome;
-            Endereco = endereco;
-            DataDeNascimento = dataDeNascimento;
-        }
-        public Clientes(string nome)
-        {
-
-        }
+        public string Endereco { get; set; }
 
         public Clientes()
         {
+
         }
+        
+        public Clientes( string cpf, string nome, DateTime dataDeNascimento, string endereco)
+        {
+            CPF = cpf;
+            Nome = nome;
+            DataDeNascimento = dataDeNascimento;
+            Endereco = endereco;
+        }
+       
+
+        
     }
 }
