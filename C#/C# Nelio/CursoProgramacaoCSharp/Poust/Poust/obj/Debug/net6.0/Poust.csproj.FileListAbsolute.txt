@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\bin\Debug\net6.0\Poust.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\bin\Debug\net6.0\Poust.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\bin\Debug\net6.0\Poust.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\bin\Debug\net6.0\Poust.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\bin\Debug\net6.0\Poust.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\Poust.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\Poust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\Poust.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\Poust.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\Poust.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\Poust.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\refint\Poust.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\Poust.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\Poust.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\Poust\Poust\obj\Debug\net6.0\ref\Poust.dll
