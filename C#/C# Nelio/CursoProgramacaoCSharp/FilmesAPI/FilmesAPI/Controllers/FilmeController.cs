@@ -8,17 +8,26 @@ namespace FilmesAPI.Controllers;
 public class FilmeController : ControllerBase
 {
     private static List<Filme> filmes = new List<Filme>();
+    private static int id = 0;
+
     [HttpPost]
     public void AdcionaFilme([FromBody] Filme filme)
     {
+        filme.Id = id++;
         filmes.Add(filme);
         Console.WriteLine(filme.Titulo);
         Console.WriteLine(filme.Duracao);
     }
 
     [HttpGet]
-    public List<Filme> RecuperaFilmes() 
+    public IEnumerable<Filme> RecuperaFilmes([FromQuery] int skip = 0, [FromQuery] int take = 10) 
     {
-        return filmes;
+        return filmes.Skip(skip).Take(take);
+    }
+
+    [HttpGet("{id}")]
+    public Filme? RecuperaFilmePorId(int id) 
+    {
+        return filmes.FirstOrDefault(filme => filme.Id == id);
     }
 }
