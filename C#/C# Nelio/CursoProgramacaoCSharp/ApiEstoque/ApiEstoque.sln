@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiEstoque", "ApiEstoque\ApiEstoque.csproj", "{D5A6D7A2-F514-4234-ACFA-CE262044F1DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiEstoque", "ApiEstoque\ApiEstoque.csproj", "{9D4007EC-9B59-4D0F-ABC5-9444ABFAED26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D5A6D7A2-F514-4234-ACFA-CE262044F1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5A6D7A2-F514-4234-ACFA-CE262044F1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5A6D7A2-F514-4234-ACFA-CE262044F1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5A6D7A2-F514-4234-ACFA-CE262044F1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4007EC-9B59-4D0F-ABC5-9444ABFAED26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4007EC-9B59-4D0F-ABC5-9444ABFAED26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4007EC-9B59-4D0F-ABC5-9444ABFAED26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4007EC-9B59-4D0F-ABC5-9444ABFAED26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {449CEA03-24BE-4686-B404-B04FCA192329}
+		SolutionGuid = {FA8200B7-FA9B-4B28-B0E1-5E703DA1D14E}
 	EndGlobalSection
 EndGlobal
