@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vkBiSGAtoePZ2+xq+hXkM7Rl4ajEgw6STLgHlw/3m51IzNoP2v+Ph4+N+rA6O/X3v8yMt2bv/OP2QgBn110qyw==",
+  "dgSpecHash": "xYqrnGzymW8p6B3Q3+y+fGwuAEI85eaf+qA2MJ0bpkLi/8hVcwPFwcBkgXqY3hwBGmsC1KzjXIZOdJ+d82cLkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hudso\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\hudso\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\hudso\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\hudso\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\hudso\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\hudso\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
     "C:\\Users\\hudso\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.2\\microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",
