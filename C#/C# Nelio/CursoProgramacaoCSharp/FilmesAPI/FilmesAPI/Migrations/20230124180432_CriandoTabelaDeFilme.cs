@@ -9,6 +9,9 @@ namespace FilmesAPI.Migrations
     public partial class CriandoTabelaDeFilme : Migration
     {
         /// <inheritdoc />
+        /// Para criar o override abixo digitei no Ferramentas > Gerenciador de Pacodes do NuGuet >
+        /// Console do Gerenciador de Pacotes e dei o comando Add-Migration CriandoTabelaDeFilme
+        /// Depois de executado, rodei o comando Update-Database 
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AlterDatabase()
