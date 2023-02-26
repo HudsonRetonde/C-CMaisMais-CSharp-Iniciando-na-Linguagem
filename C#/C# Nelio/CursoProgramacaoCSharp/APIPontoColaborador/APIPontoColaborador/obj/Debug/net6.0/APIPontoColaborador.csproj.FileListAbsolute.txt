@@ -1,0 +1,108 @@
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\appsettings.json
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.exe
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.deps.json
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.pdb
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets\msbuild.APIPontoColaborador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets\msbuild.build.APIPontoColaborador.props
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIPontoColaborador.props
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIPontoColaborador.props
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\scopedcss\bundle\APIPontoColaborador.styles.css
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.csproj.CopyComplete
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\refint\APIPontoColaborador.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.pdb
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\ref\APIPontoColaborador.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hudso\OneDrive\Documentos\RumoAcademy\API\APIPontoColaborador\apipontocolaborador\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\appsettings.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\APIPontoColaborador.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets\msbuild.APIPontoColaborador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets\msbuild.build.APIPontoColaborador.props
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIPontoColaborador.props
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIPontoColaborador.props
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\scopedcss\bundle\APIPontoColaborador.styles.css
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.csproj.CopyComplete
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\refint\APIPontoColaborador.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\APIPontoColaborador.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\CursoProgramacaoCSharp\APIPontoColaborador\APIPontoColaborador\obj\Debug\net6.0\ref\APIPontoColaborador.dll

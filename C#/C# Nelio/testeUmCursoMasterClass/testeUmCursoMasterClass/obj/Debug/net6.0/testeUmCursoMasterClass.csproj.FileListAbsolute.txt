@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\bin\Debug\net6.0\testeUmCursoMasterClass.exe
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\bin\Debug\net6.0\testeUmCursoMasterClass.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\bin\Debug\net6.0\testeUmCursoMasterClass.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\bin\Debug\net6.0\testeUmCursoMasterClass.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\bin\Debug\net6.0\testeUmCursoMasterClass.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\testeUmCursoMasterClass.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\testeUmCursoMasterClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\testeUmCursoMasterClass.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\testeUmCursoMasterClass.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\testeUmCursoMasterClass.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\testeUmCursoMasterClass.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\refint\testeUmCursoMasterClass.dll
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\testeUmCursoMasterClass.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\testeUmCursoMasterClass.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\C-Iniciando-na-Linguagem\C#\C# Nelio\testeUmCursoMasterClass\testeUmCursoMasterClass\obj\Debug\net6.0\ref\testeUmCursoMasterClass.dll
