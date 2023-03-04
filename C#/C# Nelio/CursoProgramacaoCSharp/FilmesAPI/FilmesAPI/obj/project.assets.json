@@ -6159,7 +6159,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hudso\\.nuget\\packages\\": {}
+    "C:\\Users\\hudso\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -6170,8 +6171,12 @@
       "packagesPath": "C:\\Users\\hudso\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hudso\\OneDrive\\Documentos\\C#\\C-Iniciando-na-Linguagem\\C#\\C# Nelio\\CursoProgramacaoCSharp\\FilmesAPI\\FilmesAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\hudso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
