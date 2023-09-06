@@ -15,6 +15,7 @@ namespace Alura.Loja.Testes.ConsoleApp
             //RecuperarProduto();
             //ExcluirProdutos();
             //RecuperarProdutos();
+
             AtualizarProduto();
             Console.ReadKey();
         }
