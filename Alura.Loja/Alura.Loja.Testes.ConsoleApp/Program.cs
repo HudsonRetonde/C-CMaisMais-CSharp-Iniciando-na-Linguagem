@@ -10,96 +10,37 @@ namespace Alura.Loja.Testes.ConsoleApp
     {
         static void Main(string[] args)
         {
-            // GravarUsandoAdoNet();
-            //GravarUsandoEntity();
-            //RecuperarProduto();
-            //ExcluirProdutos();
-            //RecuperarProdutos();
-
-            AtualizarProduto();
-            Console.ReadKey();
-        }
-
-		private static void AtualizarProduto()
-		{
-            // inclui um produto
-            GravarUsandoEntity();
-            RecuperarProduto();
-
-            //atualiza o produto
-            using (var repo = new ProdutoDaoEntity())
-			{
-                Produto primeiro = repo.Produtos().First();
-                primeiro.Nome = "Cassino Royale - Editado";
-                repo.Atualizar(primeiro);
-			}
-            RecuperarProdutos();
-        }
-
-		private static void RecuperarProdutos()
-		{
-            using (var repo = new LojaContext())
+            using (var contexto = new LojaContext())
             {
-                IList<Produto> produtos = repo.Produtos.ToList();
-                Console.WriteLine("Foram encontrados {0} produtos(s)", produtos.Count);
-                foreach (var item in produtos)
+                var produtos = contexto.Produtos.ToList();
+                foreach (var produto in produtos)
                 {
-                    Console.WriteLine(item.Nome);
+                    Console.WriteLine(produto);
                 }
-            }
-        }
 
-		private static void ExcluirProdutos()
-		{
-			using (var repo = new ProdutoDaoEntity())
-			{
-                IList<Produto> produtos = repo.Produtos();
-				foreach (var item in produtos)
+				Console.WriteLine("###################");
+				produtos = contexto.Produtos.ToList();
+				foreach (var e in contexto.ChangeTracker.Entries())
 				{
-					Console.WriteLine($"O produto {item} foi removido.");
-                    repo.Remover(item);
+					Console.WriteLine(e.State);
+				}
+
+				var p1 = produtos.Last();
+                p1.Nome = "007 - Um novo Dia para Morrer"
+;               contexto.SaveChanges();
+
+				
+
+				Console.WriteLine("###################");
+				produtos = contexto.Produtos.ToList();
+				foreach (var e in contexto.ChangeTracker.Entries())
+				{
+					Console.WriteLine(e.State);
 				}
 			}
-		}
 
-		private static void RecuperarProduto()
-		{
-            using (var repo = new ProdutoDaoEntity())
-            {
-                IList<Produto> produtos = repo.Produtos();
-                Console.WriteLine("Foram encontrados {0} produtos(s).", produtos.Count);
-				foreach (var item in produtos)
-				{
-					Console.WriteLine(item.Nome);
-				}
-			}
-		}
 
-		private static void GravarUsandoEntity()
-		{
-            Produto p = new Produto();
-            p.Nome = "Cassino Royale";
-            p.Categoria = "Filmes";
-            p.Preco = 19.89;
-
-            
-            using (var contexto = new ProdutoDaoEntity())
-            {
-                contexto.Adicionar(p);
-            }
-        }
-
-		private static void GravarUsandoAdoNet()
-        {
-            Produto p = new Produto();
-            p.Nome = "Harry Potter e a Ordem da Fênix";
-            p.Categoria = "Livros";
-            p.Preco = 19.89;
-
-            using (var repo = new ProdutoDAO())
-            {
-                repo.Adicionar(p);
-            }
-        }
+            Console.ReadKey();
+        }        
     }
 }
