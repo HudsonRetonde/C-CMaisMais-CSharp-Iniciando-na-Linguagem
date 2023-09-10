@@ -50,14 +50,14 @@ namespace Alura.Loja.Testes.ConsoleApp
         
         private static void ExibeEntries(IEnumerable<EntityEntry> entries)
         {
-			Console.WriteLine("###################");
+			Console.WriteLine("#####################");
 			foreach (var e in entries)
 			{
 				Console.WriteLine("-------------------------");
 				Console.WriteLine(e.Entity.ToString() + " - " + e.State);
 
 			}
-			Console.WriteLine("###################");
+			Console.WriteLine("#####################");
 		}
     }
 }
